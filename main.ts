@@ -2,7 +2,7 @@
  *
  * Created by: Jayden Okafor
  * Created on: Feb 2026
- * This program is able to multple, divide, subtract and divide numbers
+ * This program is able to multiply, divide, subtract and divide numbers
 */
 
 basic.clearScreen();
