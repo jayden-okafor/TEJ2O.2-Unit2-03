@@ -2,7 +2,7 @@
  *
  * Created by: Jayden Okafor
  * Created on: Feb 2026
- * This program is able to multiply, divide, subtract and divide numbers
+ * This program calculates the perimeter and area of a rectangle.
 */
 
 basic.clearScreen()
