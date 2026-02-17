@@ -14,3 +14,6 @@ basic.clearScreen();
 basic.pause(1000);
 
 basic.showString('2(5+3)=' + (2 * 5 + 3).toString());
+
+basic.clearScreen();
+basic.pause(1000);
