@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2026 MTHS All rights reserved
  *
  * Created by: Jayden Okafor
  * Created on: Feb 2026
@@ -8,12 +8,17 @@
 basic.clearScreen();
 basic.pause(1000);
 
-basic.showString('5*3=' + (5*3).toString());
+basic.showString('A rectangle has dimensions 5 cm & 3 cm');
 
 basic.clearScreen();
 basic.pause(1000);
 
-basic.showString('2(5+3)=' + (2 * 5 + 3).toString());
+basic.showString('The perimeter would be' + (2 * 5 + 3).toString());
+
+basic.clearScreen();
+basic.pause(1000);
+
+basic.showString('The area would be:' + (5 * 3).toString());
 
 basic.clearScreen();
 basic.pause(1000);
