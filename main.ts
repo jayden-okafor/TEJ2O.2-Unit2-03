@@ -8,17 +8,17 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('A rectangle has dimensions 5 cm & 3 cm');
-
-basic.clearScreen();
-basic.pause(1000);
-
-basic.showString('The perimeter would be' + (2 * 5 + 3).toString());
+basic.showString('A rectangle has dimensions 5 cm & 3 cm')
 
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('The area would be:' + (5 * 3).toString());
+basic.showString('The perimeter would be' + (2 * (5 + 3)).toString() + 'cm')
 
-basic.clearScreen();
-basic.pause(1000);
+basic.clearScreen()
+basic.pause(1000)
+
+basic.showString('The area would be:' + (5 * 3).toString() + 'cm^2')
+
+basic.clearScreen()
+basic.pause(1000)
